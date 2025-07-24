@@ -14,7 +14,7 @@
 //Non-Primitive (References) Data Types
 //8. Object (inclde arrays, functions, dates, etc)
 
-//Type node variable.js in terminal for result
+//Type node data-type.js in terminal for result
 // Example 1
 const a = 3;
 const b = 3.124;
