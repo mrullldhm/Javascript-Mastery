@@ -9,7 +9,6 @@
 //ReferenceError - variable isn't declared at all
 
 //Type node variable.js in terminal for result
-
 // Example 1
 console.log("Example 1 ", a);
 var a = 10;
