@@ -1,0 +1,19 @@
+{
+  "name": "javasript",
+  "version": "1.0.0",
+  "main": "conditional.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrullldhm/Javascript-Mastery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrullldhm/Javascript-Mastery/issues"
+  },
+  "homepage": "https://github.com/mrullldhm/Javascript-Mastery#readme",
+  "description": ""
+}
