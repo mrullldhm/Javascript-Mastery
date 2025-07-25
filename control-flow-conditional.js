@@ -1,6 +1,5 @@
-// Control flow is the order in which the JavaScript engine executes statement
-
-//Type node CONTROL-FLOW.js in terminal for result
+// Control Flow - Conditional
+//Type node control-flow-conditional.js in terminal for result
 // 1. Conditionals
 // if Statement
 let a = 10;
@@ -29,16 +28,16 @@ if (c === "kid") {
 let ali = "elder";
 switch (ali) {
   case "kid":
-    console.log("switch", "Your age must be between 0-12");
+    console.log("Switch Statement", "Ali age must be between 0-12");
     break;
   case "teenager":
-    console.log("switch", "Your age must be between 12-18");
+    console.log("Switch Statement", "Ali age must be between 12-18");
     break;
   case "adult":
-    console.log("switch", "Your age must be between 18-40");
+    console.log("Switch Statement", "Ali age must be between 18-40");
     break;
   case "elder":
-    console.log("switch", "Your age must be above 40");
+    console.log("Switch Statement", "Ali age must be above 40");
     break;
 }
 //Ternary Operator (Shorthand for if...else)
@@ -55,5 +54,4 @@ if (AbuWeight < 40 && AbuHeight < 170) {
 }
 
 // 2. Loops (for, while)
-
 // 3. Control keywords (break, continue, return)
