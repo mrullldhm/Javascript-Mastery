@@ -14,6 +14,7 @@
 let a = 3;
 console.log(a + 2);
 console.log(a / 3);
+console.log(++a * 10);
 
 //2. Assignment Operators
 // =    Assign
@@ -45,12 +46,11 @@ console.log(jh === sh);
 // ||  OR  (true if at least one is true)
 // !   NOT (inverts value)
 
-
 //5. Ternary Operator (Conditional)
 // A shorthand for if...else:
 // Condition ? valueIfTrue : valueIfFalse
-let age =80
-console.log(age>190 ? "Old" : "Young")
+let age = 80;
+console.log(age > 190 ? "Old" : "Young");
 
 //6. Type Operator
 
