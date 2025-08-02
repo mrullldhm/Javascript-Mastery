@@ -3,8 +3,6 @@
 // Output - return value
 // Execution - Code inside the function body
 
-//Type node function.js in terminal for result
-
 // Ways to define a function
 // 1. Function declaration - hoisted
 function add(a, b) {
@@ -28,14 +26,6 @@ const example2 = (a, b) => {
 };
 console.log(`Arrow function example, ${example2(40, 160)}`);
 example2(40, 1);
-
-// Parameter vs Argument
-// Parameter are the variable listed in the function definition
-// Argument are the actual value passed when calling the function
-function greet(name) {
-  console.log(`${name} is the parameter`);
-}
-greet("Hello is the argument");
 
 // Return value
 function square(x) {
