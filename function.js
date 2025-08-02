@@ -33,9 +33,9 @@ example2(40, 1);
 // Parameter are the variable listed in the function definition
 // Argument are the actual value passed when calling the function
 function greet(name) {
-  console.log(`${name} is the argument`);
+  console.log(`${name} is the parameter`);
 }
-greet("Hello");
+greet("Hello is the argument");
 
 // Return value
 function square(x) {
